@@ -1,5 +1,107 @@
 {
-  "version": "1.0",
-  "updates": [],
-  "status": "active"
+  "version": "1.0.0",
+  "update_url": "",
+  "users": [
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+
+    {
+      "user_name": "",
+      "mac_address": "u",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    },
+    {
+      "user_name": "",
+      "mac_address": "",
+      "end_date": "2099-01-24 11:19:40"
+    }
+  ]
 }

@@ -1,1 +1,10 @@
-
+{
+  "users": [
+    {
+      "mac_address": ""
+    },
+    {
+      "mac_address": ""
+    }
+  ]
+}
